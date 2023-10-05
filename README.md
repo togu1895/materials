@@ -4,9 +4,18 @@ A comprehensive list of materials losses at millikelvin temperatures and single 
 <details><summary>DIELECTRIC MATERIALS</summary>
 <p>
 
-Dielectric material measurements. Columns (from left to right): material of interest (Material), reference where the measurement is reported (Reference), method of dielectric deposition (Dep.), design of the measured device (Geom.), reported low power loss δ_LP, and resonator-induced intrinsic TLS loss Fδ^0_TLS. CVD: chemical vapor deposition. Therm. ox.: thermal oxidation. PECVD: plasma-enhanced CVD. ICP CVD: inductively coupled plasma CVD. MBE: molecular beam epitaxy. ECR-PECVD: electron cyclotron resonance PECVD. LE: lumped element resonator design. LE PPC: lumped element resonator with the parallel plate capacitor. IDC: lumped element resonator with the interdigitated capacitor.
+Dielectric material measurements. Columns (from left to right): material of interest (Material), reference where the measurement is reported (Reference), method of dielectric deposition (Dep.), design of the measured device (Geom.), reported low power loss $δ_{LP}$, and resonator-induced intrinsic TLS loss $Fδ^{0}_{TLS}$.
+- CVD: chemical vapor deposition.
+- Therm. ox.: thermal oxidation.
+- PECVD: plasma-enhanced CVD.
+- ICP CVD: inductively coupled plasma CVD.
+- MBE: molecular beam epitaxy.
+- ECR-PECVD: electron cyclotron resonance PECVD.
+- LE: lumped element resonator design.
+- LE PPC: lumped element resonator with the parallel plate capacitor.
+- IDC: lumped element resonator with the interdigitated capacitor.
 
-Note that values cannot be directly compared due to differences in the TLS filling factor, resonance frequency, Qi/Qc matching, fabrication, magnetic shielding, IR filtering and isolation, thermalization, and data fitting.
+Note that values cannot be directly compared due to differences in the TLS filling factor, resonance frequency, $Q_{i}/Q_{c}$ matching, fabrication, magnetic shielding, IR filtering and isolation, thermalization, and data fitting.
 
 |  Material  | Reference | Dep. | Geom. | $$δ_{LP}  [\times 10^{-5}]$$ | $$Fδ^{0}_{TLS} [\times 10^{-5}]$$ |
 | ---------- | --------- | ---- | ----- | ----------- | --------------- |
@@ -56,8 +65,15 @@ Note that values cannot be directly compared due to differences in the TLS filli
 <details><summary>THIN FILM SUPERCONDUCTING METALS</summary>
 <p>
 
-Loss measurements of superconducting metals. Columns (from left to right): superconductor in the measured device (SC), reference where the measurement is reported (Reference), method of metal deposition (Dep.), surface treatments applied and etch type used to define resonators (Surf./Etch), substrate on which the metal was deposited (Substrate), design of the measured device (Geom.), reported low power loss δLP, resonator-induced intrinsic TLS loss Fδ^0_TLS, width w of the conductor, and gap g between the conductor and the ground plane. Therm. evap.:
-thermal evaporation. MBE: molecular beam epitaxy. PVD: plasma vapor deposition. RIE: reactive ion etch. H-pass.: hydrogen-passivated. λ/2 or λ/4: CPW resonator of length stated. LE IDC: lumped element resonator with the interdigitated capacitor. NA: information not available.
+Loss measurements of superconducting metals. Columns (from left to right): superconductor in the measured device (SC), reference where the measurement is reported (Reference), method of metal deposition (Dep.), surface treatments applied and etch type used to define resonators (Surf./Etch), substrate on which the metal was deposited (Substrate), design of the measured device (Geom.), reported low power loss $δ_{LP}$, resonator-induced intrinsic TLS loss $Fδ^{0}_{TLS}$, width $w$ of the conductor, and gap $g$ between the conductor and the ground plane.
+- Therm. evap.: thermal evaporation.
+- MBE: molecular beam epitaxy.
+- PVD: plasma vapor deposition.
+- RIE: reactive ion etch.
+- H-pass.: hydrogen-passivated.
+- $λ/2$ or $λ/4$: CPW resonator of length stated.
+- LE IDC: lumped element resonator with the interdigitated capacitor.
+- NA: information not available.
 
 Note that values cannot be directly compared due to significant experimental differences.
 
