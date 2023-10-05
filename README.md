@@ -126,7 +126,9 @@ Note that values cannot be directly compared due to significant experimental dif
 </p>
 </details>
 
-REFERENCES
+
+<details><summary>REFERENCES</summary>
+<p>
 
 [^Martinis2005]: Martinis, J. M., Cooper, K. B., McDermott, R., Steffen, M., Ansmann, M., Osborn, K., Cicak, K., Oh, S., Pappas, D. P., Simmonds, R. W. et al., “Decoherence in Josephson qubits from dielectric loss,” Phys. Rev. Lett. 95, 210503 (2005)
 [^OConnell2008]: O’Connell, A. D., Ansmann, M., Bialczak, R. C., Hofheinz, M., Katz, N.,Lucero,  E.,  McKenney,  C.,  Neeley,  M.,  Wang,  H.,  Weig,  E. M.,et al.,“Microwave dielectric loss at single photon energies and millikelvin temperatures,” Appl. Phys. Lett. 92, 112903 (2008)
