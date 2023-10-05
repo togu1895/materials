@@ -74,9 +74,13 @@ C. R. H. McRae, H. Wang, J. Gao, M. Vissers, T. Brecht, A. Dunsworth, D. Pappas,
 
 <br>
 <br>
+
 # References
-* * *
+
 <br>
+
+Barends, R., Vercruyssen, N., Endo, A., De Visser, P., Zijlstra, T., Klapwijk, T., Diener, P., Yates, S., and Baselmans, J., “*Minimal resonator loss for circuit quantum electrodynamics*” Appl. Phys. Lett. *97*, 023508 (2010). <a href="https://www.nature.com/articles/s41467-018-03577-2](https://arxiv.org/abs/1005.0408)" target="_blank" rel="noopener noreferrer"><i> View Reference </i></a>.<br>
+
 Calusine, G., Melville, A., Woods, W., Das, R., Stull, C., Bolkhovsky, V., Braje, D., Hover, D., Kim, D. K., Miloshi, X. et al., "*Analysis and mitigation of interface losses in trenched superconducting coplanar waveguide resonators*" Appl. Phys. Lett. **112**, 062601 (2018).<a href="https://pubs.aip.org/aip/apl/article/112/6/062601/35936/Analysis-and-mitigation-of-interface-losses-in" target="_blank" rel="noopener noreferrer"><i> View Reference </i></a>.<br>
 
 De Graaf, S., Faoro, L., Burnett, J., Adamyan, A., Tzalenchuk, A. Y., Kubatkin, S., Lindström, T., and Danilov, A., “*Suppression of low-frequency charge noise in superconducting resonators by surface spin desorption*”, Nat. Commun. **9**, 1143 (2018).<a href="https://www.nature.com/articles/s41467-018-03577-2" target="_blank" rel="noopener noreferrer"><i> View Reference </i></a>.<br>
