@@ -79,14 +79,14 @@ Note that values cannot be directly compared due to significant experimental dif
 
 |  SC  | Reference | Dep. | Surf./Etch | Substrate | Geom. | $$δ_{LP} [\times 10^{-6}]$$ | $$Fδ^{0}_{TLS} [\times 10^{-6}]$$ | $$w/g$$ |
 | ---- | --------- | ---- | ---------- | --------- | ----- | ------------------- | ----------------------- | --- |
-| NbN/TiN  | Kim2021[^Kim2021] | Sputter | NA / RIE | Si | λ/2 | 3.68 |  |  |
-| Nb  | Zheng2022[^Zheng2022] | E-beam | BOE / RIE | Si | λ/4 |  | 0.29 | 3/2 |
-| Nb  | Kowsari2021[^Kowsari2021] | E-beam  | Piranha+BOE / RIE | Si | λ/4 |  | 0.194 | 3/2 |
-| TiN  | Gao2021[^Gao2021] | MBE  | 300C anneal / RIE | Al2O3 | λ/2 hanger | 0.3 |  | 10/6 |
-| TiN  | Gao2021[^Gao2021] | MBE  | 300C anneal / wet etch | Al2O3 | λ/2 hanger | 0.3 |  | 10/6 |
-| TiN  | Lock2019[^Lock2019] | Sputter | HF / RIE |  Si  |  λ/4  | | 0.2-30 | 3/12 |
-| Nb  | Nersisyan2019[^Nersisyan2019] | PVD | Various / RIE |  Si  |  λ/4  | 0.8-6 | |
-| TiN  | Woods2019[^Woods2019] | Sputter | RCA / RIE |  Si  |  λ/4  | | 0.3-1 |
+| NbN/TiN  | Kim 2021[^Kim2021] | Sputter | NA / RIE | Si | λ/2 | 3.68 |  |  |
+| Nb  | Zheng 2022[^Zheng2022] | E-beam | BOE / RIE | Si | λ/4 |  | 0.29 | 3/2 |
+| Nb  | Kowsari 2021[^Kowsari2021] | E-beam  | Piranha+BOE / RIE | Si | λ/4 |  | 0.194 | 3/2 |
+| TiN  | Gao 2021[^Gao2021] | MBE  | 300C anneal / RIE | Al2O3 | λ/2 hanger | 0.3 |  | 10/6 |
+| TiN  | Gao 2021[^Gao2021] | MBE  | 300C anneal / wet etch | Al2O3 | λ/2 hanger | 0.3 |  | 10/6 |
+| TiN  | Lock 2019[^Lock2019] | Sputter | HF / RIE |  Si  |  λ/4  | | 0.2-30 | 3/12 |
+| Nb  | Nersisyan 2019[^Nersisyan2019] | PVD | Various / RIE |  Si  |  λ/4  | 0.8-6 | |
+| TiN  | Woods 2019[^Woods2019] | Sputter | RCA / RIE |  Si  |  λ/4  | | 0.3-1 |
 | Al  | Burnett 2018[^Burnett2018] | E-beam | HF / wet etch |  Si  |  λ/4  | 1.3 | 1.1 |
 | TiN  | Calusine 2018[^Calusine2018] | Sputter | RCA / RIE |  Si  |  λ/4   | | 0.3 | 16/8-22/11 |
 | Al  | Earnest 2018[^Earnest2018] | E-beam | none / RIE |  Si  |  λ/4  | 3.1 | 3.27 | 15/9 |
