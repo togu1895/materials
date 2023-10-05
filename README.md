@@ -8,7 +8,7 @@ Dielectric material measurements. Columns (from left to right): material of inte
 
 Note that values cannot be directly compared due to differences in the TLS filling factor, resonance frequency, Qi/Qc matching, fabrication, magnetic shielding, IR filtering and isolation, thermalization, and data fitting.
 
-|  Material  | Reference | Dep. | Geom. | δ_LP [x 10^-5] | Fδ^0_TLS [x 10^-5] |
+|  Material  | Reference | Dep. | Geom. | $$δ_{LP}  [\times 10^{-5}]$$ | $$Fδ^{0}_{TLS} [\times 10^{-5}]$$ |
 | ---------- | --------- | ---- | ----- | ----------- | --------------- |
 | LaAlO3 | Degnan 2022[^Degnan2022] | Substrate | CPW |  | 0.91 |
 | MgAl2O4 | Degnan 2022[^Degnan2022] | Substrate | CPW | | 0.5 |
@@ -61,7 +61,7 @@ thermal evaporation. MBE: molecular beam epitaxy. PVD: plasma vapor deposition. 
 
 Note that values cannot be directly compared due to significant experimental differences.
 
-|  SC  | Reference | Dep. | Surf./Etch | Substrate | Geom. | δ_LP [x 10^-6] | Fδ^0_TLS [x 10^-6] | w/g |
+|  SC  | Reference | Dep. | Surf./Etch | Substrate | Geom. | $$δ_{LP} [\times 10^{-6}]$$ | $$Fδ^{0}_{TLS} [\times 10^{-6}]$$ | $$w/g$$ |
 | ---- | --------- | ---- | ---------- | --------- | ----- | ------------------- | ----------------------- | --- |
 | NbN/TiN  | Kim2021[^Kim2021] | Sputter | NA / RIE | Si | λ/2 | 3.68 |  |  |
 | Nb  | Zheng2022[^Zheng2022] | E-beam | BOE / RIE | Si | λ/4 |  | 0.29 | 3/2 |
