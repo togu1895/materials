@@ -16,7 +16,7 @@ import plotly.io as pio
 import chart_studio
 import chart_studio.tools as tls
 # Read in excel file in .xlsx format
-data = pd.read_excel('graph_data_revised.xlsx')
+data = pd.read_excel('graph_data_revised_2023-10-24.xlsx')
 
 # Create a pandas dataframe and label each column
 df= pd.DataFrame(data, columns=['SC', 'Reference', 'Dep.', 'Substrate', 'δLP (×10**−6)','Fδ0TLS (×10**−6)','g','δLP','Fδ0TLS'])
